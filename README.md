@@ -1,0 +1,1 @@
+# auto-daily-merak-testnet
